@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Time_detector", "Time_detector\Time_detector.vcxproj", "{612C404E-4FE9-4C17-BC7A-ACBC1861BBAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{612C404E-4FE9-4C17-BC7A-ACBC1861BBAB}.Debug|Win32.ActiveCfg = Debug|Win32
+		{612C404E-4FE9-4C17-BC7A-ACBC1861BBAB}.Debug|Win32.Build.0 = Debug|Win32
+		{612C404E-4FE9-4C17-BC7A-ACBC1861BBAB}.Release|Win32.ActiveCfg = Release|Win32
+		{612C404E-4FE9-4C17-BC7A-ACBC1861BBAB}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
